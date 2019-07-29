@@ -1,0 +1,50 @@
+body{
+    background-image: url(../images/IMG_20171218_114124_hdr_edit.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 700px;
+}
+.simple-form{
+    text-align: center;
+    margin: 100px 400px;
+}
+#registration{
+    width: 100%;
+    background-color: #051019;
+    opacity: 0.8;
+    padding: 50px 0px;
+}
+#button{
+    width: 250px;
+    padding: 10px;
+    border-radius: 5px;
+    outline: 0px;
+}
+#ph{
+    outline: 0px;
+    width: 75px;
+    padding: 10px;
+    border-radius: 5px;
+}
+#phone{
+      width: 200px;
+    padding: 10px;
+    border-radius: 5px;
+    outline: 0px;
+}
+#rd{
+    
+}
+#but{
+    color: white;
+    font-size: 18px;
+}
+#butt{
+    width: 266px;
+    padding: 11px;
+    border-radius: 18px;
+    outline: 0px;
+    background-color: #0c6996;
+    border: 2px solid #146df3;
+    color: aliceblue;
+    font-size: 18px;
+}
